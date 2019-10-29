@@ -1,7 +1,7 @@
 /**
  * Sample React Native App
  * https://github.com/facebook/react-native
- *asdasd
+ * asdasdsdads
  * @format
  * @flow
  */
@@ -29,6 +29,7 @@ function App(){
   return (
     <View style={{padding : 50}}>
         <Item chars ={data}/>
+        <Item chars ={data} />
     </View>
   );
 };
